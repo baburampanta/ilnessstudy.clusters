@@ -107,9 +107,6 @@ Acknowledgments
 
 -Dataset sourced from academic resources.
 
-```
-You can replace placeholders like `your-username` with your GitHub username and adjust the dataset's source or additional tools as necessary. Let me know if you need further help!
-```
 
 
 
